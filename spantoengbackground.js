@@ -1,5 +1,5 @@
 let mainPort;
-const url = 'https://translation.googleapis.com/language/translate/v2';
+const url = '';
 const API_KEY = '';
 
 function addPort() {
